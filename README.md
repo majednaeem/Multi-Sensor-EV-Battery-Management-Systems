@@ -24,7 +24,7 @@ A multi-sensor battery monitoring and protection system using **ESP32**. It moni
 ## 📷 Images
 
 ### Prototype
-![Prototype](20260721_161755.jpg)
+![Prototype](Images/20260721_152823.jpg)
 
 ### Circuit Diagram
 ![Circuit](Circuit Diagram.PNG)
